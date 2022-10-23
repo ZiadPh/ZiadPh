@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZiadPh
+- 👋 Hi, I’m @ZiadPh (aka Ziad Youssef)
 - 👀 I’m interested in UI/UX and Front-End Web Development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on Creative Web Projects
