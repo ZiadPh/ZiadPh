@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiadPh (aka Ziad Youssef)
-- 👀 I’m interested in UI/UX and Front-End Web Development
-- 🌱 I’m currently learning javaScript
+- 👀 I do in UI Design and Front-End Web Development
+- 🌱 I’m currently learning and Experimenting with 3D Web Development
 - 💞️ I’m looking to collaborate on Creative Web Projects
 - 📫 How to reach me +447845634511 or ziad9299@gmail.com
 
