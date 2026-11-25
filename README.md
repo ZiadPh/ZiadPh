@@ -1,8 +1,8 @@
 # Ziad Youssef
 
-Front-end developer and UX/UI designer based in Cairo. Five years of building interactive web apps and 3D scenes, with a Fine Arts background.
+Front-end developer and UX/UI designer. Five years of building interactive web apps and 3D scenes, with a Fine Arts background.
 
-**Currently open to:** front-end and creative development roles, including UK roles with Skilled Worker sponsorship.
+**Currently open to:** front-end and creative development roles.
 
 ## What I work with
 
