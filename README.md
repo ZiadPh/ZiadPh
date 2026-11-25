@@ -18,8 +18,8 @@ Front-end developer and UX/UI designer. Five years of building interactive web a
 - **BillBite:** group meal ordering and bill splitting, built solo. About 30 colleagues used it daily for a year. 
 - **Mkamel:** photography portfolio with a custom infinite horizontal scroll. 
 
-More case studies on [Contra](link).
+More case studies on [Contra](https://ziad92993j58d68e.contra.com/?utm_campaign=social_sharing&utm_source=copy_link&theme=sydneydawn).
 
 ## Contact
 
-ziad9299@gmail.com · [LinkedIn](https://www.linkedin.com/in/ziad-youssef-4b70781b0/) · [Portfolio](link)
+ziad9299@gmail.com · [LinkedIn](https://www.linkedin.com/in/ziad-youssef-4b70781b0/) · [Portfolio](https://ziad92993j58d68e.contra.com/?utm_campaign=social_sharing&utm_source=copy_link&theme=sydneydawn)
